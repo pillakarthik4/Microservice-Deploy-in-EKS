@@ -1,6 +1,11 @@
 # Microservice-Deploy-in-EKS
 #SUCCESSFULLY DEPLOYED MICROSERVICE IN EKS CLUSTER 🙌
 
+#Blue Print
+
+
+![Screenshot (15)](https://github.com/pillakarthik4/Microservice-Deploy-in-EKS/assets/130967802/84460bad-fcaa-4c6e-86bf-9edd294df4c0)
+
 
 
 ![Screenshot (16)](https://github.com/pillakarthik4/Microservice-Deploy-in-EKS/assets/130967802/ce3493c8-9ac0-49ba-99be-53b2c894e7c9)
